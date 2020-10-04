@@ -1,6 +1,6 @@
 import setuptools
 
-version = "0.1"
+version = "0.1.1"
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
@@ -23,7 +23,7 @@ setuptools.setup(
         'Intended Audience :: Science/Research',
         'Topic :: Scientific/Engineering'
     ],
-    python_requires='>=3.8',
+    python_requires='>=3.0',
     test_suite='nose.collector',
     tests_require=['nose', 'numpy'],
     license = 'MIT'
