@@ -4,6 +4,8 @@ Gradual Change-Point Detection Library based on Rough Fuzzy Changepoint Detectio
 
 The package is available in [PyPI](https://pypi.org/project/roufcp/).
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/roufcp?style=plastic)
+
 ## Usage
 
 ```
